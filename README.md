@@ -1,7 +1,7 @@
 # Survival Prediction in Lung Cancer Through Multi-Modal Representation Learning
 
 <p align="center">
-  <img src="https://aimanfarooqwani.github.io/assets/img/lung_cancer.png" alt="Teaser image for Survival Prediction in Lung Cancer Through Multi-Modal Representation Learning" width="760">
+  <img src="assets/teaser.png" alt="Teaser image for Survival Prediction in Lung Cancer Through Multi-Modal Representation Learning" width="760">
 </p>
 
 ## Abstract
